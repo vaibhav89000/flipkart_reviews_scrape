@@ -1,0 +1,16 @@
+//div[@class="_3gijNv col-12-12"]/div/div/div[@class="col _390CkK _1gY8H-"]/div[1]
+
+for rating
+
+//div[@class="_3gijNv col-12-12"]/div/div/div[@class="col _390CkK _1gY8H-"]/div[1]/div[1]
+
+for heading
+//div[@class="_3gijNv col-12-12"]/div/div/div[@class="col _390CkK _1gY8H-"]/div[1]/p
+
+for description
+
+//div[@class="_3gijNv col-12-12"]/div/div/div[@class="col _390CkK _1gY8H-"]/div[2]/div/div/div
+
+
+pagination
+(//a[@class="_3fVaIS"])[2]

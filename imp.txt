@@ -14,3 +14,40 @@ for description
 
 pagination
 (//a[@class="_3fVaIS"])[2]
+
+-----------------------------------------------------------------------------------
+//*[@id="container"]/div/div[3]/div[1]/div[2]/div[9]/div[7]/div/a/div/span
+//*[@id="container"]/div/div[3]/div[1]/div[2]/div[6]/div[4]/div/a/div/span
+
+//*[@id="container"]/div/div/div/div/div/div/div/a/div/span
+
+reviews button
+//*[@id="container"]/div/div/div/div/div/div/div/a/div/span[contains(text(), "reviews")]
+//div/span[contains(text(), "reviews")]
+
+
+input field
+//*[@id="container"]/div/div[1]/div[1]/div[2]/div[2]/form/div/div/input
+//form/div/div/input
+
+search button
+//form/div/button
+
+All results
+//*[@id="container"]/div/div[3]/div[2]/div[1]/div[2]/div[2]/div/div/div/a/div[2]/div[1]/div[1]
+//*[@id="container"]/div/div[3]/div[2]/div[1]/div[2]/div[2]/div/div[1]/div/div[2]/a[1]
+ First result
+(//a/div[2]/div[1]/div[1])[1]
+First result
+//div[2]/div/div[1]/div/div[2]/a[1]
+------------------------------------------------------------------------------------------
+For main
+//*[@id='container']/div/div[3]/div/div/div[2]/div/div/div/div
+div[1]/div/div/div[1]  rating
+div[1]/div/div/div[2] heading
+
+div[1]/div[1] rating
+div[1]/p heading
+div[2]/div[1]/div[1]/div[1]
+
+

@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b348d073-fab3-4693-9cf4-53f6635a2e56" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/imp.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/reviews/details.db" beforeDir="false" afterPath="$PROJECT_DIR$/reviews/details.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reviews/reviews/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/reviews/reviews/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reviews/reviews/spiders/getdata.py" beforeDir="false" afterPath="$PROJECT_DIR$/reviews/reviews/spiders/getdata.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +22,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="F:/web scrapping/projects/flask/hotfrog" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="ServiceViewManager">
